@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b \"F:\\\\Claude_Proj\\\\EagleEyeLite\")",
+      "WebSearch",
+      "Bash(pip install:*)",
+      "Bash(python scripts/index_rules.py:*)",
+      "Bash(python scripts/run_audit.py:*)",
+      "Bash(timeout:*)"
+    ]
+  }
+}
