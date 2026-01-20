@@ -1,0 +1,8 @@
+docs/
+├── architecture.md          # 系统架构详解
+├── rag_guide.md            # RAG实现指南
+├── config.md               # 配置参考
+├── api.md                  # API文档
+└── examples/
+    ├── basic_usage.py      # 基础使用示例
+    └── advanced_usage.py   # 高级使用示例
